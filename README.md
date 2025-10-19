@@ -1,4 +1,5 @@
 # Financial-Insights
+live dashbord https://app.powerbi.com/view?r=eyJrIjoiMTUxM2UyN2EtNTFmNy00NDRmLWFkYWQtMzMwM2I0MGQxNzNiIiwidCI6ImI1MTA1MDdmLWU1ODEtNDM3NS1iZTdmLWI1NjFkYTU2M2ZkNCJ9
 📊 Dashboard Summary: Financial Services & User Insights
 Your dashboards present a comprehensive analysis of Paytm-like platform data,
 segmented by age group, loan type, insurance category, recharge activity, 
